@@ -1,0 +1,6 @@
+number1 = input("Write a number: ")
+print(number1)
+number2 = input("Write a number you'd like to add: ")
+print(number2)
+variable = int(number1)+int(number2)
+print(variable)
